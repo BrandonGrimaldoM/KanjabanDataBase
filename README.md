@@ -4,3 +4,5 @@ Esta base de datos pertenece a la aplicación kanjaban: https://github.com/Brand
 # ERM
 ![](https://github.com/BrandonGrimaldoM/KanjabanDataBase/blob/master/BD/ERM.PNG)
 
+- Puede importar la base de datos haciendo uso del archivo.sql en la carpeta BD.
+
